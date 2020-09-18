@@ -105,12 +105,27 @@ ul li{
     left: 0;
     top: 0;
     width: 100%;
-    background-color: red;
-    color: white;
+    color:rgb(207, 129, 65);
     text-align: center;
-    height:30px;
+    height:19px;
     background-image: url("http://www.yorkwall.com/WebsiteContent/img/products/collections/YWD044/Products/PA5665icon.jpg");
   }
   .header p{
       margin:0px;
   }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color:rgb(207, 129, 65);
+    text-align: center;
+    height:30px;
+    background-image: url("http://www.yorkwall.com/WebsiteContent/img/products/collections/YWD044/Products/PA5665icon.jpg");
+  }
+  .footer p{
+      margin-top:10px;
+      font-size: 17px;
+      word-spacing:15px;
+ }
