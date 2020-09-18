@@ -54,4 +54,16 @@ h3{
     float: left;
     margin-left: 40px;
     border-radius: 20px;
+}
+.aboutmedetails{
+    font-size: 18px;
+    font-style: italic;
+    word-spacing: 5px;
+    line-height: 20px;
+    float: right;
+    width: 450px;
     }
+    ul li{
+    list-style: none;
+
+}
