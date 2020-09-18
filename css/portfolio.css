@@ -33,6 +33,10 @@ ol li{
     text-align: center;
     background-size: cover;
     background-repeat: no-repeat;
+    opacity: 45%;
+}
+.welcome h1{
+    padding: 150px;
 }
 
 /* ---------------------About me page-------------------*/
@@ -94,3 +98,19 @@ ul li{
     width: 400px;
     margin-right: 50px;
 }
+
+
+.header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    height:30px;
+    background-image: url("http://www.yorkwall.com/WebsiteContent/img/products/collections/YWD044/Products/PA5665icon.jpg");
+  }
+  .header p{
+      margin:0px;
+  }
