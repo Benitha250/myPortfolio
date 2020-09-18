@@ -61,11 +61,11 @@ h3{
     word-spacing: 5px;
     line-height: 20px;
     float: right;
-    width: 450px;
+    width: 400px;
+    margin-right: 50px;
     }
-    ul li{
+ul li{
     list-style: none;
-
 }
 
 /* ---------------------Projects section-------------------*/
@@ -84,4 +84,13 @@ h3{
     float: left;
     margin-left: 40px;
     border-radius: 20px;
+}
+.projectdetails{
+    font-size: 18px;
+    font-style: italic;
+    word-spacing: 5px;
+    line-height: 20px;
+    float: right;
+    width: 400px;
+    margin-right: 50px;
 }
