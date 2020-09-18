@@ -34,3 +34,21 @@ ol li{
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+/* ---------------------About me page-------------------*/
+
+.aboutme {
+    background-image: url("http://www.yorkwall.com/WebsiteContent/img/products/collections/YWD044/Products/PA5665icon.jpg");
+    width: 750px;
+    padding: 50px;
+    margin: 20px;
+    float: left;
+    border-radius: 20px;
+}
+.aboutimage img{
+    width: 400px;
+    margin: 5px;
+    float: left;
+    margin-left: 40px;
+    border-radius: 20px;
+    }
