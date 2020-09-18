@@ -1,3 +1,18 @@
 body{
     font-size: 24px;
     }
+
+/*---------------------------Index page----------------------------*/
+
+.left-div{
+    float:left;
+    width:30%;
+    background-image: url("http://www.yorkwall.com/WebsiteContent/img/products/collections/YWD044/Products/PA5665icon.jpg");
+    text-align: center;
+    margin-top: 10px;
+    height: 2000px;
+    }
+ol li{
+list-style: none;
+padding:10px;
+}
