@@ -13,10 +13,23 @@ body{
     height: 2000px;
     }
 ol li{
-list-style: none;
-padding:10px;
+    list-style: none;
+    padding:10px;
 }
 .left-div img{
     width: 40%;
     height: 5%;
     }
+
+.welcome{
+    background-image: url("https://res.cloudinary.com/dxscgl3u6/image/upload/v1600366797/IMG-20191023-WA0025_tgjgvh.jpg");
+    width: 750px;
+    height: 500px;
+    padding: 50px;
+    margin: 20px;
+    float: left;
+    border-radius: 20px;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
