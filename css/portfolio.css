@@ -13,11 +13,9 @@ body{
     margin-top: 10px;
     height: 600px;
     border-radius: 20px;
-    }
-ol li{
-    list-style: none;
-    padding:10px;
+    border-style: dotted;
 }
+
 .left-div img{
     width: 40%;
     height: 15%;
@@ -58,6 +56,8 @@ h3{
     float: right;
     border-radius: 20px;
     margin-right: 270px;
+    border-style: dotted;
+
 }
 .aboutimage img{
     width: 400px;
@@ -91,6 +91,7 @@ ul li{
     float: right;
     border-radius: 20px;
     margin-right: 270px;
+    border-style: dotted;
 
 }
 .projectimage img{
@@ -122,6 +123,8 @@ ul li{
 button{
     background-image: url("http://www.yorkwall.com/WebsiteContent/img/products/collections/YWD044/Products/PA5665icon.jpg");
     height: 35px;
+    font-weight: bolder;
+    border-radius: 10px;
 }
 
 .header {
