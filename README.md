@@ -9,7 +9,7 @@ This is an portfolio web page that I created containing information about myself
 ### copyright and license information
 #### MIT License
 
-Copyright (c) 2020 Benitha Uwase
+(c) 2020 Benitha Uwase
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
