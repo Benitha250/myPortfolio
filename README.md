@@ -5,7 +5,7 @@ This is an portfolio web page that I created containing information about myself
 * There is no need to enter your credials to access this page.
 * Scroll down until the last to see all information.
 * You only need the live link to access my page.
-#### link to live site on GitHub Pages: http://logok.org/wp-content/uploads/2014/05/Total-logo-earth-880x660.png
+#### link to live site on GitHub Pages: https://benitha250.github.io/myPortfolio/
 ### copyright and license information
 #### MIT License
 
